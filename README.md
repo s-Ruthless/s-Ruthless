@@ -16,7 +16,7 @@
 
 **邮箱：** 2502393029@qq.com
 
-**QQ：** <a href="https://wpa.qq.com/msgrd?v=3&uin=2502393029&site=qq&menu=yes">2502393029<a>
+**QQ：** <a href="http://wpa.qq.com/msgrd?v=3&uin=2502393029&site=qq&menu=yes">2502393029<a>
 
 **微信：** s-Ruthless
 

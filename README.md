@@ -21,3 +21,5 @@
 网站地址：https://www.moeor.com/
 
 网站简介：不过是大梦一场空！
+
+[![reng99's github stats](https://github-readme-stats.vercel.app/api?username=s-Ruthless&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

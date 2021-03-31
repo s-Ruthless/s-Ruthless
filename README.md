@@ -1,13 +1,25 @@
-## 我是鱼皮 🐟
+## 个人介绍：
 
-- 🐧 腾讯全栈开发攻城狮，全网 10w 粉技术博主
-- 🏡 作品：<a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://www.code-nav.cn" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
-- 🌱 热爱分享 <a href="" target="_blank">公众号『 程序员鱼皮 』</a>
-- 😺 趣讲技术：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
-- 💬 微信：liyupi66
-- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">@程序员鱼皮</a>
-- 👬 QQ 千人编程交流群：818860952 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="和鱼皮一起学编程的朋友们" title="和鱼皮一起学编程的朋友们"></a>
+💖 I'm 梦繁星
 
-## 新年汇总 ✨
+喜欢听歌，游戏，小说
+
+爱好计算机，会去自学捣鼓有意思的东西
+
+略懂Java web开发，爱好折腾去解决一切问题
+
+在我眼里，没有什么问题是尝试不能解决的，如果有那就多尝试几次甚至上百次
+
+即使前方的路看似绝境，也要有硬生生给自己开出一条路的勇气
+
+## 联系方式
+
+**邮箱：** 2502393029@qq.com
+
+**QQ：** <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2502393029&site=qq&menu=yes">2502393029<a>
+
+**微信：** s-Ruthless
+
+## Github ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />

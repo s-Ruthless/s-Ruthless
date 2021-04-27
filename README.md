@@ -24,7 +24,7 @@
 
 网站名称：梦繁星
 
-网站头像：https://www.moeor.com/img/avatar.webp
+网站头像：https://www.moeor.com/avatar.webp
 
 网站地址：https://www.moeor.com/
 
